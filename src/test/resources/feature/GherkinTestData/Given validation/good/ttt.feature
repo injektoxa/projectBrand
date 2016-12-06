@@ -1,2 +1,2 @@
-@ST_62
+@ST_8
 Feature: TTt
