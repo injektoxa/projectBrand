@@ -4,14 +4,8 @@ Check Background without given keyword
 
 Background: 
 
-Given aaaa
+Given sss
 When in this story background hasn't given keywordd
-
-@SC_29
-Scenario: 
-Given eee
-When in this story background hasn't given keyword
-Then aaad
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
@@ -31,3 +25,10 @@ Then gherkin parser must be ok with parsing <two> <three> <one>
 Examples: 
 |one|two|three|
 ||||
+
+
+@SC_29
+Scenario: 
+Given eee
+When in this story background hasn't given keyword
+Then aaad
