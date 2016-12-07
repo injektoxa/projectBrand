@@ -10,7 +10,7 @@ When in this story background hasn't given keyworddrr
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
 When sss
-Then gherkin parseer must be ok with parsing <two> <three> <one>
+Then gherkin peearseer must be ok with parsing <two> <three> <one>
 
 Examples: 
 |one|two|three|
