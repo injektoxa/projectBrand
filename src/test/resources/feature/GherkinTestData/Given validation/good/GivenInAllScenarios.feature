@@ -3,8 +3,6 @@ Feature: Given in all scenarios
 Check Background without given keyword
 
 Background: 
-
-Given sss
 When in this story background hasn't given keyworddrr
 
 @SC_26 @Critical @Test_1
