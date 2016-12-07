@@ -9,6 +9,7 @@ When in this story background hasn't given keywordd
 
 @SC_29
 Scenario: 
+Given eee
 When in this story background hasn't given keyword
 Then aaad
 
