@@ -4,7 +4,6 @@ Check Background without given keyword
 
 Background: 
 
-Given aaa
 When in this story background hasn't given keyword
 
 @SC_29
