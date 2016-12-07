@@ -4,7 +4,6 @@ Check Background without given keyword
 
 Background: 
 
-Given sss
 When in this story background hasn't given keywordd
 
 @SC_26 @Critical @Test_1
