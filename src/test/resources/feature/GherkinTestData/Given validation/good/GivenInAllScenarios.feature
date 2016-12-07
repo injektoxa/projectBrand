@@ -10,7 +10,7 @@ When in this story background hasn't given keyword
 @SC_29
 Scenario: 
 When in this story background hasn't given keyword
-Then aaa
+Then aaad
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
