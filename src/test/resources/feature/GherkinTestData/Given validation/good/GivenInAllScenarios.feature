@@ -4,7 +4,8 @@ Check Background without given keyword
 
 Background: 
 
-When in this story background hasn't given keywordd
+Given ssss
+When in this story background hasn't given keyworddrr
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
