@@ -5,17 +5,17 @@ Check Background without given keyword
 Background: 
 
 Given dsfa
-When in this sdddtorddy background hasn't given keyworddrrвhddttp://dfirst.localhost/
-
-@SC_27
-Scenario: 
-Given stssddssdory
-When in ddthisddd story background hasn't given keyword
+When in this sssdddtorddy background hasn't given keyworddrrвhddttp://dfirst.localhost/
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given this scenario must started from given keywdddddordddd
 Then gherkin parser must be ok with parsing
+
+@SC_27
+Scenario: 
+Given stssddssdory
+When in ddthisddd story background hasn't given keyword
 
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
