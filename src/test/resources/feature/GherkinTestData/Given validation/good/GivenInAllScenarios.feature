@@ -3,6 +3,7 @@ Feature: Given in all scenarios
 Check Background without given keyword
 
 Background: 
+
 When in this sdddtory background hasn't given keyworddrrвhttp://first.localhost/
 
 @SC_26 @Critical @Test_1
