@@ -9,7 +9,7 @@ When in this sdddtorddy background hasn't given keyworddrrвhddttp://dfirst.loca
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
-Given this scenario must started from given keywddordddd
+Given this scenario must started from given keywdddddordddd
 Then gherkin parser must be ok with parsing
 
 @SC_27
