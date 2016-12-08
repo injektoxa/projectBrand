@@ -6,15 +6,6 @@ Background:
 
 When in this sdddtory background hasn't given keyworddrrвhttp://dfirst.localhost/
 
-@SC_28 @Medium @Test_2
-Scenario Outline: Check another scenario
-When ssssssss
-Then gherkinddd parseer must be ok with parsing <two> <three> <one>
-
-Examples: 
-|one|two|three|
-||||
-
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given this scenario must started from given keyword
@@ -24,6 +15,16 @@ Then gherkin parser must be ok with parsing
 Scenario: 
 Given story
 When in this story background hasn't given keyword
+
+@SC_28 @Medium @Test_2
+Scenario Outline: Check another scenario
+When ssssssss
+Then gherkinddd parseer must be ok with parsing <two> <three> <one>
+
+Examples: 
+|one|two|three|
+||||
+
 
 @SC_29
 Scenario: 
