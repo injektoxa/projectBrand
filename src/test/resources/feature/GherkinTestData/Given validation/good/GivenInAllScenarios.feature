@@ -7,15 +7,15 @@ Background:
 Given dsfa
 When in this sssdddtorddy background hasn't given keyworddrrвhddttp://dfirst.localhost/
 
+@SC_26 @Critical @Test_1
+Scenario: Check scenario
+Given this scenario must started from given keywdddddordddd
+Then gherkin parsdafser must be ok with parsingdd
+
 @SC_27
 Scenario: 
 Given stssddddssdory
 When in ddthisddd story background hasn't given keyword
-
-@SC_26 @Critical @Test_1
-Scenario: Check scenario
-Given this scenario must started from given keywdddddordddd
-Then gherkin parser must be ok with parsing
 
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
