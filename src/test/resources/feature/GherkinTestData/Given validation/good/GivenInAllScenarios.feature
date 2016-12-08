@@ -9,7 +9,7 @@ When in this sdddtorddy background hasn't given keyworddrrвhddttp://dfirst.loca
 
 @SC_27
 Scenario: 
-Given stssory
+Given stssddory
 When in ddthis story background hasn't given keyword
 
 @SC_26 @Critical @Test_1
