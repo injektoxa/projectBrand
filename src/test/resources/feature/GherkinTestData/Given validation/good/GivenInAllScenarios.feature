@@ -7,6 +7,11 @@ Background:
 Given asdf
 When in this sdddtory background hasn't given keyworddrrвhttp://dfirst.localhost/
 
+@SC_29
+Scenario: 
+When in this stoddry background hasn't given keyword
+Then aaadggdddfedde
+
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given this scenario must started from given keyword
@@ -25,9 +30,3 @@ Then gherkinddd parseer must be ok with parsing <two> <three> <one>
 Examples: 
 |one|two|three|
 ||||
-
-
-@SC_29
-Scenario: 
-When in this stoddry background hasn't given keyword
-Then aaadggfedde
