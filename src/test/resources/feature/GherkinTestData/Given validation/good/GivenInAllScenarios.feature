@@ -4,7 +4,6 @@ Check Background without given keyword
 
 Background: 
 
-Given adsf
 When in this sdddtory background hasn't given keyworddrrвhttp://dfirst.localhost/
 
 @SC_28 @Medium @Test_2
