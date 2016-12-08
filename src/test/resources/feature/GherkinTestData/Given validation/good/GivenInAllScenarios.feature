@@ -4,7 +4,8 @@ Check Background without given keyword
 
 Background: 
 
-When in this sdddtorddy background hasn't given keyworddrrвhttp://dfirst.localhost/
+Given asdf
+When in this sdddtorddy background hasn't given keyworddrrвhddttp://dfirst.localhost/
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
