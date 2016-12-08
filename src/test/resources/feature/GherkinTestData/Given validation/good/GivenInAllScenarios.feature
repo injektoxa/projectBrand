@@ -4,6 +4,7 @@ Check Background without given keyword
 
 Background: 
 
+Given aaa
 When in this sdddtory background hasn't given keyworddrrвhttp://first.localhost/
 
 @SC_26 @Critical @Test_1
