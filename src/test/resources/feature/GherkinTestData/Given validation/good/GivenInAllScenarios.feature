@@ -7,6 +7,16 @@ Background:
 Given asdf
 When in this sdddtorddy background hasn't given keyworddrrвhddttp://dfirst.localhost/
 
+@SC_27
+Scenario: 
+Given stssdddory
+When in ddthisddd story background hasn't given keyword
+
+@SC_26 @Critical @Test_1
+Scenario: Check scenario
+Given this scenario must started from given keyword
+Then gherkin parser must be ok with parsing
+
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
 When ssssssddddssddddd
@@ -16,15 +26,6 @@ Examples:
 |two|three|one|
 ||||
 
-@SC_26 @Critical @Test_1
-Scenario: Check scenario
-Given this scenario must started from given keyword
-Then gherkin parser must be ok with parsing
-
-@SC_27
-Scenario: 
-Given stssdddory
-When in ddthis story background hasn't given keyword
 
 @SC_29
 Scenario: 
