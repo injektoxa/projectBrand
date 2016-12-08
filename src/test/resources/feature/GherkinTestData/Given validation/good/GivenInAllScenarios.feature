@@ -3,16 +3,8 @@ Feature: Given in all scenarios
 Check Background without given keyword
 
 Background: 
+
 When in this sdddtory background hasn't given keyworddrrвhttp://dfirst.localhost/
-
-@SC_28 @Medium @Test_2
-Scenario Outline: Check another scenario
-When ssssssssddd
-Then gherkinddd parseer must be ok with parsing <two> <three> <one>
-
-Examples: 
-|one|two|three|
-||||
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
@@ -23,6 +15,16 @@ Then gherkin parser must be ok with parsing
 Scenario: 
 Given story
 When in ddthis story background hasn't given keyword
+
+@SC_28 @Medium @Test_2
+Scenario Outline: Check another scenario
+When ssssssssddd
+Then gherkinddd parseer must be ok with parsing <two> <three> <one>
+
+Examples: 
+|one|two|three|
+||||
+
 
 @SC_29
 Scenario: 
