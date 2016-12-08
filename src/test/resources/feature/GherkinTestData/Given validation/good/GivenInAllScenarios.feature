@@ -4,7 +4,8 @@ Check Background without given keyword
 
 Background: 
 
-When in this story background hasn't given keyworddrr
+Given eee
+When in this story background hasn't given keyworddrrв
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
