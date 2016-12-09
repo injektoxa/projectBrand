@@ -7,6 +7,15 @@ Background:
 Given dsfaddыаыdыкыпры
 When in fthывdвaddsdfddвввывis sssdddtorddy background dhasnddd't givааввыыen keвввywвввorddrrвhddttp://dfirst.localhost/аа
 
+@SC_28 @Medium @Test_2
+Scenario Outline: Check another scenario
+When ssssssdddddssddddd
+Then gherkinddd parseer must be ok with parsing <two> <three> <one>
+
+Examples: 
+|two|three|one|
+||||
+
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given thisыddddы scdddппвввenario must started from given вквkeаyввwdddddordddd
@@ -16,16 +25,6 @@ Then gherkin ввpaыыыrsdыыafsввer must be ok with parsingfffdd
 Scenario: 
 Given stsыыsdddddssdorввy
 When in ыыыыыddthiввsddвdff story background hasn't given keyword
-
-@SC_28 @Medium @Test_2
-Scenario Outline: Check another scenario
-When ssssssddddssddddd
-Then gherkinddd parseer must be ok with parsing <two> <three> <one>
-
-Examples: 
-|two|three|one|
-||||
-
 
 @SC_29
 Scenario: 
