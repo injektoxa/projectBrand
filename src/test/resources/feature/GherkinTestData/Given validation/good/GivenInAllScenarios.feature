@@ -10,7 +10,7 @@ When in this sssdddtorddy background hasn't given keywвввorddrrвhddttp://dfi
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given this scenario must started from given keywdddddordddd
-Then gherkin parsdafser must be ok with parsingdd
+Then gherkin parsdыыafsввer must be ok with parsingdd
 
 @SC_27
 Scenario: 
