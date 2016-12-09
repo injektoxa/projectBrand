@@ -4,18 +4,18 @@ Check Background without given keyword
 
 Background: 
 
-Given dsfaddыаывввdыкыпры
+Given dsfadвввdыаывввdыкыпры
 When in ffftввhывdвaddsdfddвввывis sssdddtorddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
-
-@SC_27
-Scenario: 
-Given stsыыsdddввddssdorввy
-When in ыыыыыddtffhiввsddвdff story background hasn't given keyword
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given thisааыdddhdы sggcdddппвввenario must started g ssgidven вквkeаyввwdddgggddordddd
 Then gherkin ввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
+
+@SC_27
+Scenario: 
+Given stsыыsdddввddssdorввy
+When in ыыыыыddtffhiввsddвdff story background hasn't given keyword
 
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
