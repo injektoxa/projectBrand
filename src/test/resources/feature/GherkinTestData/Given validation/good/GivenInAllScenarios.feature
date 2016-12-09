@@ -5,7 +5,7 @@ Check Background without given keyword
 Background: 
 
 Given dsfa
-When in this sssdddtorddy background hasn't given keywвввorddrrвhddttp://dfirst.localhost/
+When in this sssdddtorddy background hasn't given keywвввorddrrвhddttp://dfirst.localhost/аа
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
