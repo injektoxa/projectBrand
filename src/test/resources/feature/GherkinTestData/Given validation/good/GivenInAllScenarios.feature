@@ -7,15 +7,15 @@ Background:
 Given dsfaddыаыdыкыпры
 When in thывdвasdfddвввывis sssdddtorddy background hasnddd't givааввыыen keвввywвввorddrrвhddttp://dfirst.localhost/аа
 
+@SC_27
+Scenario: 
+Given stsыыsddddssdorввy
+When in ыыыыыddthiввsddвdff story background hasn't given keyword
+
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given thisыы scdddппвввenario must started from given вквkeаyввwdddddordddd
 Then gherkin ввpaыыыrsdыыafsввer must be ok with parsingdd
-
-@SC_27
-Scenario: 
-Given stsыыsddddssdorввy
-When in ыыыыыddthiввsddвd story background hasn't given keyword
 
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
