@@ -7,6 +7,16 @@ Background:
 Given dsfadвввdыаывввdыкыпры
 When in ffftввhывdвaddsdfddвввывis sddssdddtorddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
 
+@SC_27
+Scenario: 
+Given stsыыsddввdввввddssrdorввy
+When in ыыыыыddtffhiввsddвdff story background hasn't given keyword
+
+@SC_26 @Critical @Test_1
+Scenario: Check scenario
+Given thisавваыddddddhdы sggcdddппвввenario must startdded g ssgidvвввen вквkeаyыыввwdddgggddordddd
+Then gherkin ввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
+
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
 When ssssssdddddssddddde
@@ -16,15 +26,6 @@ Examples:
 |two|three|one|
 ||||
 
-@SC_26 @Critical @Test_1
-Scenario: Check scenario
-Given thisавваыddddddhdы sggcdddппвввenario must startdded g ssgidvвввen вквkeаyыыввwdddgggddordddd
-Then gherkin ввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
-
-@SC_27
-Scenario: 
-Given stsыыsdddввввddssdorввy
-When in ыыыыыddtffhiввsddвdff story background hasn't given keyword
 
 @SC_29
 Scenario: 
