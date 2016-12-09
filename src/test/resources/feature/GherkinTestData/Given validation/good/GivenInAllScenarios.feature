@@ -5,7 +5,7 @@ Check Background without given keyword
 Background: 
 
 Given dsfaddыаыdыыпры
-When in thыввывis sssdddtorddy background hasn't givааen keвввywвввorddrrвhddttp://dfirst.localhost/аа
+When in thывввывis sssdddtorddy background hasn't givааen keвввywвввorddrrвhddttp://dfirst.localhost/аа
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
