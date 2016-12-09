@@ -7,10 +7,14 @@ Background:
 Given adsf
 When in ffftdввhывdвaddsdввfddвввывis sddssdddtorааddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
 
-@SC_407
-Scenario: 
-When in this stdgsfgodddry background hasn't given keyword
-Then aaadggfedde
+@SC_406 @Medium @Test_2
+Scenario Outline: Check another scenario
+When ssssssdddddssfddddde
+Then gherkinddd parseer must be ok with parsing <two> <three> <one>
+
+Examples: 
+|two|three|one|
+||||
 
 @SC_404
 Scenario: 
@@ -22,11 +26,7 @@ Scenario: Check scenario
 Given thisаdвdваыddddddhdы sввggcdddаdввdппвввenario must startdded g ssgidvвввen вкdвkeаyыыввwdddgggddordddd
 Then gherkвin ввввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
 
-@SC_406 @Medium @Test_2
-Scenario Outline: Check another scenario
-When ssssssdddddssddddde
-Then gherkinddd parseer must be ok with parsing <two> <three> <one>
-
-Examples: 
-|two|three|one|
-||||
+@SC_407
+Scenario: 
+When in this stdgsfgodddry background hasn't given keyword
+Then aaadggfedde
