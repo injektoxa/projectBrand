@@ -7,15 +7,15 @@ Background:
 Given dsfadвввdыаывввdыкыпры
 When in ffftввhывdвaddsdfddвввывis sssdddtorddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
 
+@SC_26 @Critical @Test_1
+Scenario: Check scenario
+Given thisавваыdddhdы sggcdddппвввenario must started g ssgidvвввen вквkeаyввwdddgggddordddd
+Then gherkin ввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
+
 @SC_27
 Scenario: 
 Given stsыыsdddввввddssdorввy
 When in ыыыыыddtffhiввsddвdff story background hasn't given keyword
-
-@SC_26 @Critical @Test_1
-Scenario: Check scenario
-Given thisааыdddhdы sggcdddппвввenario must started g ssgidven вквkeаyввwdddgggddordddd
-Then gherkin ввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
 
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
