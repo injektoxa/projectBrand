@@ -9,8 +9,8 @@ When in thыввывis sssdddtorddy background hasn't givааen keвввywввв
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
-Given thisыы scenario must started from given keywdddddordddd
-Then gherkin ввparsdыыafsввer must be ok with parsingdd
+Given thisыы scппenario must started from given keywdddddordddd
+Then gherkin ввpaыыыrsdыыafsввer must be ok with parsingdd
 
 @SC_27
 Scenario: 
