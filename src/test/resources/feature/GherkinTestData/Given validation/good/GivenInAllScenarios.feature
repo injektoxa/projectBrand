@@ -7,15 +7,15 @@ Background:
 Given dsfaddыаыdыкыпры
 When in fthывdвaddsdfddвввывis sssdddtorddy background dhasnddd't givааввыыen keвввywвввorddrrвhddttp://dfirst.localhost/аа
 
-@SC_26 @Critical @Test_1
-Scenario: Check scenario
-Given thisыddddы scdddппвввenario must started fromff gidven вквkeаyввwdddddordddd
-Then gherkin ввpaыыыrsdыыafsввer must be ok with parsingfffdd
-
 @SC_27
 Scenario: 
 Given stsыыsdddddssdorввy
-When in ыыыыыddthiввsddвdff story background hasn't given keyword
+When in ыыыыыddtffhiввsddвdff story background hasn't given keyword
+
+@SC_26 @Critical @Test_1
+Scenario: Check scenario
+Given thisыddddы scdddппвввenario must started from given вквkeаyввwdddddordddd
+Then gherkin ввpaыыыrsdыыafsввer must be ok with parsingfffdd
 
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
