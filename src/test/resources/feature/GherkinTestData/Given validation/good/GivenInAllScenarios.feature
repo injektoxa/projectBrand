@@ -10,7 +10,7 @@ When in ffftввhывdвaddsdfddвввывis sddssdddtorddy backgrouggnduu dhdda
 @SC_27
 Scenario: 
 Given stsыыsddввdввввddssrdorввy
-When in ыыыыыdddtffhiввsddвdff story background hasn't given keyword
+When in ыыыыыddddtffhiввsddвdff story background hasn't given keyword
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
