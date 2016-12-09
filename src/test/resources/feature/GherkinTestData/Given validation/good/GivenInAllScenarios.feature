@@ -7,6 +7,11 @@ Background:
 Given adsf
 When in ffftdввhывdвaddsdввfddвввывis sddssdddtorааddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
 
+@SC_407
+Scenario: 
+When in this stdgsfgodddry background hasn't given keyword
+Then aaadggfedde
+
 @SC_404
 Scenario: 
 Given stsыыsddввdввввddssrdorввy
@@ -25,9 +30,3 @@ Then gherkinddd parseer must be ok with parsing <two> <three> <one>
 Examples: 
 |two|three|one|
 ||||
-
-
-@SC_407
-Scenario: 
-When in this stdgsfgoddry background hasn't given keyword
-Then aaadggfedde
