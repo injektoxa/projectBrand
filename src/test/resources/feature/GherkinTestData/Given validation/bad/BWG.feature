@@ -5,7 +5,7 @@ Check Background
 @SC_120103 @Critical @Test_1
 Scenario: Check scenario
 Given asd
-And kjsdfhk
+And kjsdfhkdd
 
 @SC_120104 @Medium @Test_2
 Scenario: Check another scenario
