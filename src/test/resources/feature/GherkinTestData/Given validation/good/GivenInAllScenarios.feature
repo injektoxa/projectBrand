@@ -5,17 +5,17 @@ Check Background without given keyword
 Background: 
 
 Given dsfaddыаыdыыпры
-When in thывввывis sssdddtorddy background hasn't givааen keвввywвввorddrrвhddttp://dfirst.localhost/аа
-
-@SC_27
-Scenario: 
-Given stsыыsddddssdorввy
-When in ыыыddthiввsddвd story background hasn't given keyword
+When in thывввывis sssdddtorddy background hasn't givааввen keвввywвввorddrrвhddttp://dfirst.localhost/аа
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given thisыы scппenario must started from given ввkeyввwdddddordddd
 Then gherkin ввpaыыыrsdыыafsввer must be ok with parsingdd
+
+@SC_27
+Scenario: 
+Given stsыыsddddssdorввy
+When in ыыыddthiввsddвd story background hasn't given keyword
 
 @SC_28 @Medium @Test_2
 Scenario Outline: Check another scenario
