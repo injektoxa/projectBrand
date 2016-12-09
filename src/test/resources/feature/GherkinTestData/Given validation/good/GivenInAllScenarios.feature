@@ -9,7 +9,7 @@ When in ffftdввhывdвaddsdввfddвввывis sddssdddtorааddy backgrouggn
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
-Given thisаdвdваыddddddhdы sввggcdddаddппвввenario must startdded g ssgidvвввen вкdвkeаyыыввwdddgggddordddd
+Given thisаdвdваыddddddhdы sввggcdddаdввdппвввenario must startdded g ssgidvвввen вкdвkeаyыыввwdddgggddordddd
 Then gherkвin ввввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
 
 @SC_27
