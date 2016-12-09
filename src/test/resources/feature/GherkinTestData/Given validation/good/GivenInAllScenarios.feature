@@ -9,7 +9,7 @@ When in ffftввhывdвaddsdfddвввывis sssdddtorddy backgrouggnduu dhddasn
 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
-Given thisыdddhdы sggcdddппвввenario must started g ssgidven вквkeаyввwdddgggddordddd
+Given thisааыdddhdы sggcdddппвввenario must started g ssgidven вквkeаyввwdddgggddordddd
 Then gherkin ввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
 
 @SC_27
