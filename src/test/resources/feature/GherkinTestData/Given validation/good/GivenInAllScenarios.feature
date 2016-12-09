@@ -7,6 +7,11 @@ Background:
 Given dsfadвввdыаывввdыкыпры
 When in ffftввhывdвaddsdfddвввывis sddssdddtorddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
 
+@SC_29
+Scenario: 
+When in this stdgsfgoddry background hasn't given keyword
+Then aaadggfedde
+
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given thisавваыddddddhdы sggcdddппвввenario must startdded g ssgidvвввen вквkeаyыыввwdddgggddordddd
@@ -25,9 +30,3 @@ Then gherkinddd parseer must be ok with parsing <two> <three> <one>
 Examples: 
 |two|three|one|
 ||||
-
-
-@SC_29
-Scenario: 
-When in this stoddry background hasn't given keyword
-Then aaadggfedde
