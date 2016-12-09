@@ -10,7 +10,7 @@ When in fffthывdвaddsdfddвввывis sssdddtorddy backgrouggnd dhddasnddd't 
 @SC_26 @Critical @Test_1
 Scenario: Check scenario
 Given thisыdddhdы sggcdddппвввenario must started g ssgidven вквkeаyввwdddgggddordddd
-Then gherkin ввpaыыыrsdыыafsввer must be ok with parsingfffdd
+Then gherkin ввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
 
 @SC_27
 Scenario: 
