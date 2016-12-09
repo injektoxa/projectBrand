@@ -3,8 +3,6 @@ Feature: Given in all scenarios
 Check Background without given keyword
 
 Background: 
-
-Given dsfadвввdыаывввdыкыпрывв
 When in ffftdввhывdвaddsdввfddвввывis sddssdddtorааddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
 
 @SC_120106
