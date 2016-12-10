@@ -7,15 +7,15 @@ Background:
 Given adsf
 When in ffftdввhывdвaddsddddввfddвввывis sddssdddtorааddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
 
+@SC_405 @Critical @Test_1
+Scenario: Check scenario
+Given thisаdвdваыddddddddhdы sввggcdddаdввdппвввenario must startdded g ssgidvвввen вкdвkeаyыыввwdddgggddordddd
+Then gherkвin ввввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
+
 @SC_404
 Scenario: 
 Given stsыыsddввdввввddssrdorввy
 When in ыыыыыdddsstffdhiввsddвdff story background hasn't given keyword
-
-@SC_405 @Critical @Test_1
-Scenario: Check scenario
-Given thisаdвdваыddddddhdы sввggcdddаdввdппвввenario must startdded g ssgidvвввen вкdвkeаyыыввwdddgggddordddd
-Then gherkвin ввввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
 
 @SC_406 @Medium @Test_2
 Scenario Outline: Check another scenario
