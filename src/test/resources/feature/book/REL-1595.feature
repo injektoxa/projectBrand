@@ -6,12 +6,6 @@ Background:
 
 Given hkjhkj
 
-@SC_623 @second_scenario_tag
-Scenario: Second scenario
-Some description
-Given I created scenario
-Then I see it in Relime
-
 @SC_624 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
