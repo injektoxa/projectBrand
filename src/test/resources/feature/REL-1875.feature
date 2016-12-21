@@ -1,5 +1,5 @@
 @ST_177 @this_is_story_tag @new_changes
-Feature: Just feature for testing
+Feature: Just feature
 
 Background: 
 
