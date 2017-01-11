@@ -1,4 +1,4 @@
-@ST_238 @tagtagtag @this_is_story_tag
+@ST_246 @tagtagtag @this_is_story_tag
 Feature: Update this name
 I want to see new description
 
@@ -6,7 +6,7 @@ Background:
 
 Given hkjhkj
 
-@SC_855 @third_scenario_tag
+@SC_880 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -16,7 +16,7 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_856 @fourth_scenario_tag
+@SC_881 @fourth_scenario_tag
 Scenario: Fourth scenario
 Some description
 Given I created scenario
