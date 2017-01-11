@@ -1,4 +1,4 @@
-@ST_219 @Story_Good
+@ST_227 @Story_Good
 Feature: Given in all scenarios
 Check Background without given keyword
 
@@ -7,17 +7,17 @@ Background:
 Given adsf
 When in ffftdввhывdвaddsddddввfddвввывis sddssddыыыdtorааddy backgrouggnduu dhddasnddd't givааввыыen keвввywвввor[[dgghdrrвhddttp://dfirst.localhost/аа
 
-@SC_790
+@SC_815
 Scenario: 
 Given stsыыsddввdввввddssrdorввy
 When in ыыыыыdddsstffdhiввsddвdff story ввв hasn't given keyword
 
-@SC_791 @Critical @Test_1
+@SC_816 @Critical @Test_1
 Scenario: Check scenario
 Given thisаdвdваыddddddddhdы sввggcdddаdввdппвввenario must startdded g ssgidvвввen вкdвkeаyыыввwdddgggddordddd
 Then gherkвin ввввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
 
-@SC_792 @Medium @Test_2
+@SC_817 @Medium @Test_2
 Scenario Outline: Check another scenario
 When ssssssdddddssddddde
 Then gherkinddd parseer must be ok with parsing <two> <three> <one>
@@ -27,7 +27,7 @@ Examples:
 ||||
 
 
-@SC_793
+@SC_818
 Scenario: 
 When in this stdgsfgodddry background hasn't given keyword
 Then aaadggfedde
