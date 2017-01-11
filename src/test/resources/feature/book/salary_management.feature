@@ -1,7 +1,7 @@
-@ST_248 @Story_BookSearch @ghjh
+@ST_256 @Story_BookSearch @ghjh
 Feature: Salary Management 3333
 
-@SC_884 @Test_1
+@SC_909 @Test_1
 Scenario Outline: Modify sssss
 Given the salary management system is initialized with the following data 11111111111
 When the boss increases the salary for the <user> with id <id> by 5%
