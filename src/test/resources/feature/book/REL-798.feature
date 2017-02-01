@@ -1,9 +1,9 @@
-@ST_395145
+@ST_395240
 Feature: [UI] Create service to interact with Jira
 The section of loaded scenario must be started like this
 *BDD*
 
-@SC_795586
+@SC_795924
 Scenario: first scenario for Jira check
 Given we have this story in Jira
 When we call relime
@@ -13,7 +13,7 @@ And description must be save rows before keyword BDD
 And this one scenario
 And with Tags
 
-@SC_795587 @High
+@SC_795925 @High
 Scenario: second scenario for Jira check
 Given we have this story in Jira with this scenario
 When we call relime
