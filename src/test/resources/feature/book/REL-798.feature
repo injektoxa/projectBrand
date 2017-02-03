@@ -13,7 +13,7 @@ And description must be save rows before keyword BDD
 And this one scenario
 And with Tags
 
-@SC_796180 @High
+@SC_796180 @High @High
 Scenario: second scenario for Jira check
 Given we have this story in Jira with this scenario
 When we call relime
