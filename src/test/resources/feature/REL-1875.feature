@@ -1,11 +1,11 @@
-@ST_395251 @this_is_story_tag @new_changes
+@ST_396113 @this_is_story_tag @new_changes
 Feature: Just feature
 
 Background: 
 
 Given new changes
 
-@SC_796134 @first_scenario_tag
+@SC_796258 @first_scenario_tag
 Scenario: First scenario 111111
 There is scenario description 222222222
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -18,13 +18,13 @@ And I add some changes
 And more changes were added
 And some changes
 
-@SC_796135 @second_scenario_tag
+@SC_796259 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_796136 @third_scenario_tag
+@SC_796260 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -34,13 +34,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_796137 @fourth_scenario_tag
+@SC_796261 @fourth_scenario_tag
 Scenario: Fourth scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_796138 @fifth_scenario_tag
+@SC_796262 @fifth_scenario_tag
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -58,13 +58,13 @@ Examples:
 |stive|4|45000.0|
 
 
-@SC_796139 @second_scenario_tag
+@SC_796263 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_796140 @third_scenario_tag
+@SC_796264 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -74,13 +74,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_796141 @fourth_scenario_tag
+@SC_796265 @fourth_scenario_tag
 Scenario: Fourth scenario
 Some description J
 Given I created scenario
 Then I see it in Relime
 
-@SC_796142 @fifth_scenario_tag
+@SC_796266 @fifth_scenario_tag
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
