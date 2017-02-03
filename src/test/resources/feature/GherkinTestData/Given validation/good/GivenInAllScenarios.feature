@@ -12,12 +12,12 @@ Scenario:
 Given stsыыsddввdввввddssrdorввy
 When in ыыыыыdddsstffdhiввsddвdff story ввв hasn't given keyword
 
-@SC_796192 @Critical @Test_1 @Critical @Test_1
+@SC_796192 @Critical @Test_1
 Scenario: Check scenario
 Given thisаdвdваыddddddddhdы sввggcdddаdввdппвввenario must startdded g ssgidvвввen вкdвkeаyыыввwdddgggddordddd
 Then gherkвin ввввpaыыыrsdыыafsввer must be ok with p[[arsingfffdd
 
-@SC_796193 @Medium @Test_2 @Medium @Test_2
+@SC_796193 @Medium @Test_2
 Scenario Outline: Check another scenario
 When ssssssdddddssddddde
 Then gherkinddd parseer must be ok with parsing <two> <three> <one>
